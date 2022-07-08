@@ -1,0 +1,22 @@
+anotações Alesson
+
+
+ANOTAÇÔES IMPORTANTES >>>> 
+
+git clone (pra baixar o projeto na minha maquina)
+
+git checkout -b 'teste'
+
+// Cria uma nova Branch (o que é uma branch?)
+
+Git add . 
+// Adiciona as suas alterações na branch 
+
+git commit -m "Teste"
+// Adiciona os comentarios na sua alteração,,
+ Git push  
+Sobe as suas altearç~eos 
+vwq-sjsi-uhb
+
+
+console.log("\n [begin] ");
